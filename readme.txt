@@ -11,3 +11,5 @@ Third Run the MySQL database (using phpMyAdmin?) Kino.sql the file.
 4th Now manage over index_admin.php the movies.
 
 
+developed by
+deepak kumar
